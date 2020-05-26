@@ -10,6 +10,7 @@
                 "action": "add",
                 "url": "https://raw.githubusercontent.com/bachns/vUpdaterStorage/master/vGeoCatalog/update/vGeoCatalog.exe",
                 "target": "vGeoCatalog.exe"
+            }
         }
     },
     "2.0.1.1260": {
