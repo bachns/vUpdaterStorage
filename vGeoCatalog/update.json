@@ -1,4 +1,17 @@
 {
+    "2.0.1.1287": {
+        "release-date": "27/5/2020",
+        "changelog": [
+            "Đồng bộ các biểu tượng"
+        ],
+        "change": {
+            "vGeoCatalog.exe": {
+                "action": "add",
+                "url": "https://raw.githubusercontent.com/bachns/vUpdaterStorage/master/vGeoCatalog/update/vGeoCatalog.exe",
+                "target": "vGeoCatalog.exe"
+            }
+        }
+    },
     "2.0.1.1286": {
         "release-date": "25/5/2020",
         "changelog": [
@@ -12,11 +25,5 @@
                 "target": "vGeoCatalog.exe"
             }
         }
-    },
-    "2.0.1.1260": {
-        "release-date": "25/5/2020",
-        "changelog": [
-            "Đây là phiên bản phát hành setup"
-        ]
     }
 }
