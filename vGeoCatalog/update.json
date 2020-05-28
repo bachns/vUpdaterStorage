@@ -1,4 +1,17 @@
 {
+    "2.0.1.1300": {
+        "release-date": "28/5/2020",
+        "changelog": [
+            "Cập nhật chức năng gửi lệnh sang vGeoInt"
+        ],
+        "change": {
+            "vGeoCatalog.exe": {
+                "action": "add",
+                "url": "https://raw.githubusercontent.com/bachns/vUpdaterStorage/master/vGeoCatalog/update/vGeoCatalog.exe",
+                "target": "vGeoCatalog.exe"
+            }
+        }
+    },
     "2.0.1.1287": {
         "release-date": "27/5/2020",
         "changelog": [
