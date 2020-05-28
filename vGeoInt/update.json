@@ -1,4 +1,17 @@
 {
+    "2.1.1.386": {
+        "release-date": "28/5/2020",
+        "changelog": [
+            "Ghi log file chi tiết hơn"
+        ],
+        "change": {
+            "vGeoInt.exe": {
+                "action": "add",
+                "url": "https://raw.githubusercontent.com/bachns/vUpdaterStorage/master/vGeoInt/update/vGeoInt.exe",
+                "target": "vGeoInt.exe"
+            }
+        }
+    },
     "2.1.1.377": {
         "release-date": "27/5/2020",
         "changelog": [
