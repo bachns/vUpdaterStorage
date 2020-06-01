@@ -1,9 +1,8 @@
 {
     "2.1.1.423": {
-        "release-date": "29/5/2020",
+        "release-date": "1/6/2020",
         "changelog": [
-            "Xem thông tin thuộc tính (metadata)",
-            "Thêm action mở dữ liệu và tạo mới không gian làm việc"
+            "Phiên bản mới, bổ sung các chức năng phục vụ diễn tập 2020"
         ],
         "change": {
             "vGeoInt.exe": {
